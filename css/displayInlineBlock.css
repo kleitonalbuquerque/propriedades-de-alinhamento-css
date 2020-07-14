@@ -1,0 +1,21 @@
+.exemple {
+  color: #fff;
+  text-align: center;
+}
+
+.exemple-item {
+  display: inline;
+}
+
+.exemple-item-first {
+  background-color: #FAA116;
+}
+
+.exemple-item-second {
+  background-color: #57C7C3;
+}
+
+.exemple-item-third {
+  background-color: #3B97D3;
+}
+
